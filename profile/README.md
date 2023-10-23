@@ -45,4 +45,4 @@
 |<img src="https://avatars.githubusercontent.com/u/58854041?v=4" width="150px" height="150px"/>|<img src="https://avatars.githubusercontent.com/u/55003317?v=4" width="150px" height="150px"/>|<img src="https://user-images.githubusercontent.com/49177223/221573884-1222feb3-5206-4bd0-bb5a-c1d79f75781b.png" width="150px" height="150px"/>|<img src="https://avatars.githubusercontent.com/u/45158550?v=4" width="150px" height="150px"/>|
 |---|---|---|---|
 |[제리](https://github.com/pepperdad)|[다미](https://github.com/damie824)|루이|[준](https://github.com/hjy0951)|
-|FE|FE/BE|DE|FE|
+|FE|FE/BE|UI/UX|FE|
