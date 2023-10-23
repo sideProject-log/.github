@@ -22,7 +22,7 @@
 <br/>
 
 ## 🔗 배포 링크
-https://log.damie.works/main
+https://log.damie.works/main (모바일로 봐주세요!)
 
 <br/>
 <br/>
