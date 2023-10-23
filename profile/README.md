@@ -2,7 +2,8 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
-![log_cover](https://github.com/hjy0951/hjy0951/assets/45158550/31950b0f-e011-428f-bcce-61178271a7ae)
+![log_cover](https://github.com/sideProject-log/.github/assets/45158550/af30b1f8-a2ca-407b-9dea-799b07153038)
+
 
 > 인스타는 눈치 보이고…블로그는 너무 본격적이야!
 어디 가볍게 일상글 남길 수 있는 곳 없을까?
